@@ -35,12 +35,23 @@ inquirer.prompt([
       },
       {
           type:'list',
-          message: 'what is your project license under?',
+          message: 'What is your project license under?',
           name:'license',
           choices:['apache','MIT','mozilla','none']
 
       }
-    ,
+      ,
+      {
+        type: 'input',
+        message: 'What will be the  Contribution Guidlines',
+        name: 'contribution',
+      },
+      {
+        type: 'input',
+        message: 'How can i test this app',
+        name: 'test',
+      },
+      
   ])
   .then((response) => {
 

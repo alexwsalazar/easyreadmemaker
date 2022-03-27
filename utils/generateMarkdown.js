@@ -38,7 +38,9 @@ function generateMarkdown(data) {
  [Description](#description)
  [Instalation](#instalation)
  [Usage](#usage)
-
+ [Contribution](#contribution)
+ [license ](#license)
+ [Test](#test)
 ## Description
 ${data.description}
 
@@ -51,6 +53,13 @@ ${data.usage}
 ## license 
 ${data.license}
 license wedsite: ${renderLicenseLink(data.license)}
+
+##Contribution
+${data.contribution}
+
+##Test
+${data.test}
+
 
 `;
 }
