@@ -69,7 +69,7 @@ for additional question, email ${data.email}
 
 # Heres a working video of the application :p
 
-[](./)
+[DEMO](./video/first-practice.gif)
 
 `;
 }
