@@ -1,4 +1,4 @@
-# fasfdsafdsa
+# jfdasf
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Table of Contents
  [Description](#description)
@@ -10,29 +10,29 @@
  [Questions](#questions)
 
 ## Description
-fsadf
+afsdakfasdjf
 
 ## Instalation
-sdafsdafasd 
+afjasdkfjsadf 
 
 ## Usage
-asdfasdf
+asfsdjakfjsadkf
 
 ## License 
 Apache
 license wedsite:(https://opensource.org/licenses/Apache-2.0)
 
 ## Contribution
-fsdafas
+sad;fljdsa
 
 ## Test
-dfasdf
+jsdakjf;das
 
 ## Questions
-Heres a [link](https://www.github.com/) to my GitHub profile,
-for additional question, email fasd 
+Heres a [link](https://www.github.com/kjklsdafjlasv) to my GitHub profile,
+for additional question, email jfasdkfjasd 
 
 # Heres a working video of the application :p
 
-G:MyDriveScreencastifyirstpractice.mp4
+https://github.com/alexwsalazar/easyreadmemaker/blob/main/video/first-practice.mp4
 
