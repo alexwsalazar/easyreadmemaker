@@ -30,27 +30,38 @@ inquirer.prompt([
     },
     {
         type: 'input',
-        message: 'Give me instalation instructions',
+        message: 'Give me instalation instructions?',
         name: 'instalation',
       },
       {
           type:'list',
           message: 'What is your project license under?',
           name:'license',
-          choices:['apache','MIT','mozilla','none']
+          choices:['Apache','MIT','Mozilla','NONE']
 
       }
       ,
       {
         type: 'input',
-        message: 'What will be the  Contribution Guidlines',
+        message: 'What will be the  Contribution Guidlines?',
         name: 'contribution',
       },
       {
         type: 'input',
-        message: 'How can i test this app',
+        message: 'How can i test this app?',
         name: 'test',
       },
+      {
+        type: 'input',
+        message: 'What is a good email to reach you at?',
+        name: 'email',
+      },
+      {
+        type: 'input',
+        message: 'What is a your github username?',
+        name: 'github',
+      },
+      
       
   ])
   .then((response) => {
