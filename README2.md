@@ -34,5 +34,5 @@ for additional question, email jfasdkfjasd
 
 # Heres a working video of the application :p
 
-https://github.com/alexwsalazar/easyreadmemaker/blob/main/video/first-practice.mp4
+https://user-images.githubusercontent.com/99907921/160878494-e7c738e9-4d69-49a4-a6f5-314a836755e4.mp4
 
